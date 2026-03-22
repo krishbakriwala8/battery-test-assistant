@@ -1,0 +1,14 @@
+{
+  "voltage": {
+    "min": 2.0,
+    "max": 4.0
+  },
+  "current": {
+    "min": -0.5,
+    "max": 0.5
+  },
+  "temperature": {
+    "min": 10,
+    "max": 50
+  }
+}
