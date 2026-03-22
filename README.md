@@ -131,6 +131,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ---
 
 **Built with  by [Krish Bakriwala](https://github.com/krishbakriwala8)**
-```
-
-This README is comprehensive, highlights your skills, and provides clear instructions. You can replace the placeholder image with a real screenshot of your app in action. The structure is clean and professional – a 10/10 for sure!
